@@ -22,7 +22,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 **Lunes 14 Septiembre 2015 11:59:59pm**
 La entrega puede ser vía email, dropbox, google drive, one drive o cualquier medio de transferencia de archivos al correo jonmircha@gmail.com
 
-##Fuentes bibliográficas del curso:
+## :books: Fuentes bibliográficas del curso:
 * [Introducción a JS](http://librosweb.es/libro/javascript/)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax/)
 * [Curso de Diseño y Programación Web de Bextlán](http://bextlan.com/cursos/web/)
@@ -45,11 +45,11 @@ Conocer e introducir al estudiante a la programación web a través del paradigm
 * Camel Case
 * Objetos principales de JS: window, document, navigator
 
-###Links revisados en la sesión 1:
+### :computer: Links revisados en la sesión 1:
 * [Teoría Sesión 1](http://bextlan.com/slides/poo-js)
 * [Sitio Oficial HTML5](http://www.w3.org/html/logo/)
 
-###Actividades para la sesión 2:
+### :pencil: Actividades para la sesión 2:
 * Traer la definición de un Objeto del mundo real (Métodos y Atributos)
 * Traer un breve curriculum en un archivo de texto
 * [Leer Capítulo 1 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_1.html)
