@@ -56,26 +56,26 @@ Conocer e introducir al estudiante a la programación web a través del paradigm
 * [Leer Capítulo 3 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_3.html)
 * [Leer Capítulo 6 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_6.html)
 
-## Sesión 2: 14 Agosto 2015
-###Objetivo de la Sesión:
-###Temas y conceptos aprendidos:
-###Links revisados en la sesión 2:
-###Actividades para la sesión 3:
+## :school: Sesión 2: 14 Agosto 2015
+### :chart_with_upwards_trend: Objetivo de la Sesión:
+### :clipboard: Temas y conceptos aprendidos:
+### :globe_with_meridians: Links revisados en la sesión 2:
+### :pencil: Actividades para la sesión 3:
 
-## Sesión 3: 21 Agosto 2015
-###Objetivo de la Sesión:
-###Temas y conceptos aprendidos:
-###Links revisados en la sesión 3:
-###Actividades para la sesión 4:
+## :school: Sesión 3: 21 Agosto 2015
+### :chart_with_upwards_trend: Objetivo de la Sesión:
+### :clipboard: Temas y conceptos aprendidos:
+### :globe_with_meridians: Links revisados en la sesión 3:
+### :pencil: Actividades para la sesión 4:
 
-## Sesión 4: 28 Agosto 2015
-###Objetivo de la Sesión:
-###Temas y conceptos aprendidos:
-###Links revisados en la sesión 4:
-###Actividades para la sesión 5:
+## :school: Sesión 4: 28 Agosto 2015
+### :chart_with_upwards_trend: Objetivo de la Sesión:
+### :clipboard: Temas y conceptos aprendidos:
+### :globe_with_meridians: Links revisados en la sesión 4:
+### :pencil: Actividades para la sesión 5:
 
-## Sesión 5: 4 Septiembre 2015
-###Objetivo de la Sesión:
-###Temas y conceptos aprendidos:
-###Links revisados en la sesión 5:
-###Actividades para la entrega final:
+## :school: Sesión 5: 4 Septiembre 2015
+### :chart_with_upwards_trend: Objetivo de la Sesión:
+### :clipboard: Temas y conceptos aprendidos:
+### :globe_with_meridians: Links revisados en la sesión 5:
+### :pencil: Actividades para la entrega final:
