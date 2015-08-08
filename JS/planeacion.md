@@ -1,4 +1,4 @@
-# Materia: Fundamentos de Programación Web
+# Materia: Fundamentos de Programación Web (JavaScript)
 
 ## Evaluación:
 * 25% Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
@@ -7,14 +7,15 @@
 * 25% Portafolio/Curriculum
 * Prohibido usar frameworks o librerías JS
 
-Entrega Final: 
-Lunes 14 Septiembre 2015 11:59:59pm
+##Entrega Final: 
+**Lunes 14 Septiembre 2015 11:59:59pm**
 
-Referencias:
-* Introducción a JS http://librosweb.es/libro/javascript/
-* Introducción a AJAX http://librosweb.es/libro/ajax/
-* Curso de Diseño y Programación Web de Bextlán http://bextlan.com/cursos/web/
-
+Fuentes bibliográficas del curso:
+* [Introducción a JS](http://librosweb.es/libro/javascript/)
+* [Introducción a AJAX](http://librosweb.es/libro/ajax/)
+* [Curso de Diseño y Programación Web de Bextlán](http://bextlan.com/cursos/web/)
+* [JavaScript The Good Parts](http://www.maritimejournal.com/__data/assets/pdf_file/0020/1033940/Javascript-The-Good-Parts.pdf)
+<hr>
 # Sesión 1: 7 Agosto 2015
 
 ##Links sesión 1
