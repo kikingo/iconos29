@@ -7,7 +7,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 * [Jonathan MirCha](http://jonmircha.com)
 * Instructor Web y Arquitecto de Frontend
 * Fundador de **[Bextlán](http://bextlan.com)**
-* Maratonista
+* Maratonista :runner:
 * jonmircha@gmail.com
 
 ## Evaluación:
