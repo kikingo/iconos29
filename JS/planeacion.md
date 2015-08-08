@@ -16,3 +16,14 @@ Referencias:
 * Curso de Diseño y Programación Web de Bextlán http://bextlan.com/cursos/web/
 
 # Sesión 1: 7 Agosto 2015
+
+##Links sesión 1
+* http://bextlan.com/slides/poo-js
+* http://www.w3.org/html/logo/
+
+##Actividades:
+* Traer la definición de un Objeto (Métodos y Atributos)
+* Traer un breve curriculum
+* Leer http://librosweb.es/libro/javascript/capitulo_1.html
+* Leer http://librosweb.es/libro/javascript/capitulo_3.html
+* Leer http://librosweb.es/libro/javascript/capitulo_6.html
