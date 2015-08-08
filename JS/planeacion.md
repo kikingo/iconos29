@@ -1,16 +1,16 @@
 # Materia: Fundamentos de Programación Web (JavaScript)
 
-## Objetivo de la Materia:
+## :chart_with_upwards_trend: Objetivo de la Materia:
 Al finalizar el curso el estudiante aprenderá los fundamentos de programación web con el lenguaje JavaScript
 
-## Docente:
+## :bow: Docente:
 * [Jonathan MirCha](http://jonmircha.com)
 * Instructor Web y Arquitecto de Frontend
 * Fundador de **[Bextlán](http://bextlan.com)**
 * Maratonista :runner:
 * jonmircha@gmail.com
 
-## Evaluación:
+## :mortar_board: Evaluación:
 * 35% Actividades
 * 25% Portafolio/Curriculum
 * 25% Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
@@ -18,7 +18,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 * Prohibido usar frameworks o librerías JS
 * Para la entrega del sitio HTML y CSS, se deberá incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además el estudiante acepta la percepción del docente al evaluar dicho sitio
 
-##Entrega Final: 
+## :date: Entrega Final: 
 **Lunes 14 Septiembre 2015 11:59:59pm**
 La entrega puede ser vía email, dropbox, google drive, one drive o cualquier medio de transferencia de archivos al correo jonmircha@gmail.com
 
@@ -28,12 +28,12 @@ La entrega puede ser vía email, dropbox, google drive, one drive o cualquier me
 * [Curso de Diseño y Programación Web de Bextlán](http://bextlan.com/cursos/web/)
 * [JavaScript The Good Parts](http://www.maritimejournal.com/__data/assets/pdf_file/0020/1033940/Javascript-The-Good-Parts.pdf)
 
-## Sesión 1: 7 Agosto 2015
+## :school: Sesión 1: 7 Agosto 2015
 
-###Objetivo de la Sesión:
+### :chart_with_upwards_trend: Objetivo de la Sesión:
 Conocer e introducir al estudiante a la programación web a través del paradigma de la orientación a objetos y el lenguaje JavaScript. Conceptos de programación orientada a objetos
 
-###Temas y conceptos aprendidos:
+### :clipboard: Temas y conceptos aprendidos:
 * Programar
 * JavaScript
 * Clase / Prototipo
@@ -45,7 +45,7 @@ Conocer e introducir al estudiante a la programación web a través del paradigm
 * Camel Case
 * Objetos principales de JS: window, document, navigator
 
-### :computer: Links revisados en la sesión 1:
+### :globe_with_meridians: Links revisados en la sesión 1:
 * [Teoría Sesión 1](http://bextlan.com/slides/poo-js)
 * [Sitio Oficial HTML5](http://www.w3.org/html/logo/)
 
