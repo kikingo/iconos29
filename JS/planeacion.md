@@ -13,5 +13,6 @@ Lunes 14 Septiembre 2015 11:59:59pm
 Referencias:
 * Introducción a JS http://librosweb.es/libro/javascript/
 * Introducción a AJAX http://librosweb.es/libro/ajax/
+* Curso de Diseño y Programación Web de Bextlán http://bextlan.com/cursos/web/
 
 # Sesión 1: 7 Agosto 2015
