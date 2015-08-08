@@ -1,4 +1,5 @@
 # Materia: Fundamentos de Programación Web (JavaScript)
+![Image of Yaktocat](http://bextlan.com/v4/themes/v4/img/tutoriales/javascript.jpg)
 
 ## :chart_with_upwards_trend: Objetivo de la Materia:
 Al finalizar el curso el estudiante aprenderá los fundamentos de programación web con el lenguaje JavaScript
