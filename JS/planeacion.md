@@ -52,9 +52,9 @@ Conocer e introducir al estudiante a la programación web a través del paradigm
 ###Actividades para la sesión 2:
 * Traer la definición de un Objeto del mundo real (Métodos y Atributos)
 * Traer un breve curriculum en un archivo de texto
-* [Leer Capítulo 1 Introducción](http://librosweb.es/libro/javascript/capitulo_1.html)
-* [Leer Capítulo 3 Introducción](http://librosweb.es/libro/javascript/capitulo_3.html)
-* [Leer Capítulo 6 Introducción](http://librosweb.es/libro/javascript/capitulo_6.html)
+* [Leer Capítulo 1 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_1.html)
+* [Leer Capítulo 3 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_3.html)
+* [Leer Capítulo 6 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_6.html)
 
 ## Sesión 2: 14 Agosto 2015
 ###Objetivo de la Sesión:
