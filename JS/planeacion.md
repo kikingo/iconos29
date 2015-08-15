@@ -58,10 +58,30 @@ Conocer e introducir al estudiante a la programación web a través del paradigm
 * [Leer Capítulo 6 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_6.html)
 
 ## :school: Sesión 2: 14 Agosto 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Crear un objeto en JS con sus métodos y atributos. Aprender los métodos JS para interactuar con HTML y CSS. Entender el Modelo de Eventos en JS
+
 ### :clipboard: Temas y conceptos aprendidos:
+* Definición de Prototipo, Objeto, Métodos y Atributos en JS
+* Operador Ternario
+* Asignación, Igualdad, Identidad
+* Tipos de Datos
+* Interacción de JS con HTML y CSS
+* Document Object Model (DOM)
+* Modelo de eventos
+* Eventos como atributo
+* Manejadores de Eventos
+* Manejadores Múltiples de Eventos
+
 ### :globe_with_meridians: Links revisados en la sesión 2:
+* [La dieta del navegador](http://browserdiet.com/es/)
+
 ### :pencil: Actividades para la sesión 3:
+* Traer programado un objeto con 4 métodos, 8 atributos y 4 eventos
+* Curriculum: La parte de Datos Personales trabajarla con objetos JS
+* Investigar los conceptos: Algoritmo y Diagrama de Flujo
+* En un archivo de texto enlistar las reglas que cada uno considere pertinentes para el juego del Gato
 
 ## :school: Sesión 3: 21 Agosto 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
