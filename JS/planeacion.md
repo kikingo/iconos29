@@ -84,10 +84,27 @@ Crear un objeto en JS con sus métodos y atributos. Aprender los métodos JS par
 * En un archivo de texto enlistar las reglas que cada uno considere pertinentes para el juego del Gato
 
 ## :school: Sesión 3: 21 Agosto 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Entender el concepto de algoritmos y diagramas de flujo, y ejecutar códigos JS basados en esos algoritmos
+
 ### :clipboard: Temas y conceptos aprendidos:
+* Algoritmos
+* Diagramas de Flujo
+* Operadores Aritméticos, Lógicos, Relacionales
+* Estructuras de Control: Condicionales y ciclos
+* if else, if else if else, for
+* Arreglos
+* Método isNaN
+* Objeto Date()
+
 ### :globe_with_meridians: Links revisados en la sesión 3:
+* [W3School](http://www.w3schools.com/)
+
 ### :pencil: Actividades para la sesión 4:
+* Investigar qué es JSON
+* [Juego del Gato](https://www.youtube.com/watch?v=ngTUYA2_QFo) (Ver video y traer código)
+* [Arreglos Asociativos](https://www.youtube.com/watch?v=uTX54FpuloQ) (Ver video y traer código)
 
 ## :school: Sesión 4: 28 Agosto 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:

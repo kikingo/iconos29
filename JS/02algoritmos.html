@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Algoritmos</title>
+	<style>
+		#gato { border-collapse: collapse; }
+
+		#gato td
+		{
+			border: thick solid black;
+			font-size: 300%;
+			height: 1em;
+			padding: 1em;
+			width: 1em;
+		}
+
+		#gato  tr:first-child  td { border-top: 0; }
+
+		#gato  tr:last-child  td { border-bottom: 0; }
+
+		#gato td:first-of-type { border-left: 0; }
+
+		#gato td:last-of-type { border-right: 0; }
+	</style>
+</head>
+<body>
+	<h2>¿Cómo determinamos si un numero es par o impar?</h2>
+	<h3>Algoritmo</h3>
+	<ol>
+		<li>Saber cuál es el numero a determinar si es par o impar</li>
+		<li>Dividir el número entre 2</li>
+		<li>
+			Evaluar el residuo, con la operación del módulo:
+			<ol>
+				<li>Si el residuo es 0, el número es par</li>
+				<li>Si el residuo es 1, el número es impar</li>
+			</ol>
+		</li>
+	</ol>
+	<h3>Diagrama de Flujo</h3>
+	<img src="activos/simbolos-diagramas-flujo.png">
+	<img src="activos/diagrama-par-impar.jpg" />
+	<button id="numero">Dame un número</button>
+	<button id="saluda">Saluda</button>
+	<hr>
+	<h2>Juego del Gato</h2>
+	<table id="gato">
+		<tr>
+			<td id="c1" class="gato"></td>
+			<td id="c2" class="gato"></td>
+			<td id="c3" class="gato"></td>
+		</tr>
+		<tr>
+			<td id="c4" class="gato"></td>
+			<td id="c5" class="gato"></td>
+			<td id="c6" class="gato"></td>
+		</tr>
+		<tr>
+			<td id="c7" class="gato"></td>
+			<td id="c8" class="gato"></td>
+			<td id="c9" class="gato"></td>
+		</tr>
+	</table>
+	<script src="js/algoritmos.js" defer></script>
+	<script src="js/gato.js" defer></script>
+</body>
+</html>
