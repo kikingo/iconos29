@@ -104,7 +104,7 @@ Entender el concepto de algoritmos y diagramas de flujo, y ejecutar códigos JS 
 ### :pencil: Actividades para la sesión 4:
 * Investigar qué es JSON
 * [Juego del Gato](https://www.youtube.com/watch?v=ngTUYA2_QFo) (Ver video y traer código)
-* [Arreglos Asociativos](https://www.youtube.com/watch?v=uTX54FpuloQ) (Ver video y traer código)
+* [Arreglos Multidimensionales](https://www.youtube.com/watch?v=uTX54FpuloQ) (Ver video y traer código)
 
 ## :school: Sesión 4: 28 Agosto 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
