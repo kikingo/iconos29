@@ -123,8 +123,8 @@ Aprender a manipular información en JSON, detectar navegadores, plataformas y d
 * [IMDb](http://www.imdb.com/)
 * [OMDb API](http://www.omdbapi.com/)
 * [Marvel API](http://developer.marvel.com/)
-* [¿Cuál es mi userAgent](http://www.whatsmyuseragent.com/WhatsAUserAgent)
-* [User Agent String](http://www.useragentstring.com/)
+* [Qué es el userAgent](http://www.whatsmyuseragent.com/WhatsAUserAgent)
+* [Lista de userAgent](http://www.useragentstring.com/)
 
 ### :pencil: Actividades para la sesión 5:
 * Terminar ejercicio del userAgent detectando navegadores
