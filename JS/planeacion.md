@@ -107,10 +107,31 @@ Entender el concepto de algoritmos y diagramas de flujo, y ejecutar códigos JS 
 * [Arreglos Multidimensionales](https://www.youtube.com/watch?v=uTX54FpuloQ) (Ver video y traer código)
 
 ## :school: Sesión 4: 28 Agosto 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Aprender a manipular información en JSON, detectar navegadores, plataformas y dispositivos con JS
+
 ### :clipboard: Temas y conceptos aprendidos:
+* Arreglos Multidimensionales
+* JSON
+* Objeto Navigator
+* Atributo userAgent
+* Detección de Dispositivos, Plataformas y Navegadores
+
 ### :globe_with_meridians: Links revisados en la sesión 4:
+* [JSON](http://json.org/json-es.html)
+* [IMDb](http://www.imdb.com/)
+* [OMDb API](http://www.omdbapi.com/)
+* [Marvel API](http://developer.marvel.com/)
+* [¿Cuál es mi userAgent](http://www.whatsmyuseragent.com/WhatsAUserAgent)
+* [User Agent String](http://www.useragentstring.com/)
+
 ### :pencil: Actividades para la sesión 5:
+* Terminar ejercicio del userAgent detectando navegadores
+* [Leer Capítulo 7 Introducción a JS](http://librosweb.es/libro/javascript/capitulo_7.html)
+* [Leer Capítulo 7 Introducción a AJAX](http://librosweb.es/libro/ajax/capitulo_7.html)
+* [Trabajo con números y cadenas de texto](https://www.youtube.com/watch?v=pmvKwHgt7qc) (Ver video y traer código)
+* [Formularios, Validaciones y Expresiones Regulares](https://www.youtube.com/watch?v=ZnA10B_m-1k) (Ver video y traer código)
 
 ## :school: Sesión 5: 4 Septiembre 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
