@@ -154,11 +154,11 @@ Entender el uso de JavaScript en entornos de servidor, AJAX y Geolocalización
 * [Geolocalización Ejemplo MDN](https://developer.mozilla.org/es/docs/Web/API/Geolocation/getCurrentPosition)
 
 ### :pencil: Actividades para la entrega final:
-1 Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
-2 Portafolio/Curriculum con las siguientes implementaciones
+1. Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
+2. Portafolio/Curriculum con las siguientes implementaciones
 	* Los datos personales implementarlos como Objeto
 	* Los datos académicos implementarlos como Arreglos
 	* Los datos laborales implementarlos como JSON
 	* Aplicar estilos y eventos dinamicamente con JS (mínimo 2 de c/u)
 	* Aplicar AJAX para cargar una versión imprimible del cv en pdf
-* Para ambas entregas incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además al no entregarlos el estudiante acepta la percepción del docente al evaluar dicho sitio
+3. Para ambas entregas incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además al no entregarlos el estudiante acepta la percepción del docente al evaluar dicho sitio
