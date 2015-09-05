@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+	<meta charset="UTF-8" />
+	<title>Fundamentos de Programación en JavaScript parte 6</title>
+	<meta name="description" content="En este ejercicio seguiremos entendiendo fundamentos de programación en JavaScript" />
+	<style>
+		body, html { font-family: Helvetica, sans-serif; font-size: 16px; }
+	</style>
+</head>
+<body>
+	<h1>Fundamentos de Programación en JavaScript parte 6</h1>
+	<p><a href="index.html">Regresar al inicio</a></p>
+	<h2>Números</h2>
+	<button id="calificacion">Calificación</button>
+	<button id="adivina">Adivina el número</button>
+	<h2>Cadenas de Texto</h2>
+	<button id="escribe">Escribe algo</button>
+	<h2>Formularios</h2>
+	<form id="rfc">
+		<fieldset>
+			<legend>Ingresa tus datos:</legend>
+			<div>
+				<label for="nombre">Nombre(s):</label>
+				<input type="text" id="nombre" placeholder="nombre(s)" />
+			</div>
+			<div>
+				<label for="apaterno">Apellido Paterno:</label>
+				<input type="text" id="apaterno" placeholder="apellido paterno" />
+			</div>
+			<div>
+				<label for="amaterno">Apellido Materno:</label>
+				<input type="text" id="amaterno" placeholder="apellido materno" />
+			</div>
+			<div>
+				<label for="nacimiento">Fecha de Nacimiento:</label>
+				<input type="text" id="nacimiento" placeholder="dd-mm-aaaa" />
+			</div>
+			<div>
+				<label for="homoclave">Homoclave:</label>
+				<input type="text" id="homoclave" placeholder="deben ser 3 caractéres" />
+			</div>
+			<div>
+				<input type="submit" id="enviar" value="Generar RFC" />
+			</div>
+			<div id="respuesta"></div>
+		</fieldset>
+	</form>
+	<style>
+		:required {
+			border-color: green;
+		}
+
+		:invalid {
+			border-color: red;
+		}
+	</style>
+	<form action="">
+		<input type="text" title="Tu nombre" pattern="[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+" required>
+		<input type="email" required>
+		<input type="number">
+		<input type="date">
+		<input type="submit">
+	</form>
+	<script src="js/numeros-cadenas-forms.js"></script>
+</body>
+</html>

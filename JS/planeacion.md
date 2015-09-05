@@ -6,7 +6,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ## :bow: Docente:
 * [Jonathan MirCha](http://jonmircha.com)
-* Instructor Web y Arquitecto de Frontend
+* Instructor Web y Arquitecto de Front end
 * Fundador de **[Bextlán](http://bextlan.com)**
 * Maratonista :runner:
 * jonmircha@gmail.com
@@ -17,7 +17,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 * 25% Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
 * 15% Examen Teórico (Sesión 5)
 * Prohibido usar frameworks o librerías JS
-* Para la entrega del sitio HTML y CSS, se deberá incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además el estudiante acepta la percepción del docente al evaluar dicho sitio
+* Para ambas entregas incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además al no entregarlos el estudiante acepta la percepción del docente al evaluar dicho sitio
 
 ## :date: Entrega Final: 
 **Lunes 14 Septiembre 2015 11:59:59pm**
@@ -134,7 +134,31 @@ Aprender a manipular información en JSON, detectar navegadores, plataformas y d
 * [Formularios, Validaciones y Expresiones Regulares](https://www.youtube.com/watch?v=ZnA10B_m-1k) (Ver video y traer código)
 
 ## :school: Sesión 5: 4 Septiembre 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Entender el uso de JavaScript en entornos de servidor, AJAX y Geolocalización
+
 ### :clipboard: Temas y conceptos aprendidos:
+* JS en el servidor
+* Uso de XAMPP como servidor local
+* AJAX
+* Geolocalización
+
 ### :globe_with_meridians: Links revisados en la sesión 5:
+* [Can I use?](http://caniuse.com/)
+* [XAMPP](https://www.apachefriends.org/es/index.html)
+* [Introducción a AJAX](http://librosweb.es/ajax/capitulo_7/metodos_y_propiedades_del_objeto_xmlhttprequest.html)
+* [Estados HTTP](http://es.wikipedia.org/wiki/Anexo:Códigos_de_estado_HTTP)
+* [Extensiones MIME Wikipedia](http://es.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions)
+* [Lista MIME Types](http://sites.utoronto.ca/webdocs/HTMLdocs/Book/Book-3ed/appb/mimetype.html)
+* [Geolocalización Ejemplo MDN](https://developer.mozilla.org/es/docs/Web/API/Geolocation/getCurrentPosition)
+
 ### :pencil: Actividades para la entrega final:
+1 Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
+2 Portafolio/Curriculum con las siguientes implementaciones
+	* Los datos personales implementarlos como Objeto
+	* Los datos académicos implementarlos como Arreglos
+	* Los datos laborales implementarlos como JSON
+	* Aplicar estilos y eventos dinamicamente con JS (mínimo 2 de c/u)
+	* Aplicar AJAX para cargar una versión imprimible del cv en pdf
+* Para ambas entregas incluir un archivo readme.txt describiendo en que secciones se implementaron las interacciones JS, si no se incluye dicho archivo se restará un punto de la calificación final, además al no entregarlos el estudiante acepta la percepción del docente al evaluar dicho sitio
