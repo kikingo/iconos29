@@ -69,18 +69,3 @@ Terminal de comandos
 
 Navegador Web
 	http://localhost/phpmyadmin
-
-
-
-Tarea:
-	Que proyecto voy a desarrollar
-	Mapa de Sitio
-	En una lista numerar la info que desean almacenar
-
-	Conceptos
-		Normalización de BD
-			(Las primeras 3 Formas Normales)
-		Patrón de Diseño de Software MVC (Modelo Vista Controlador)
-
-	Ejercicio 
-		Analicen la información de un sitio web
