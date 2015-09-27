@@ -12,7 +12,7 @@ Al finalizar el curso el estudiante utilizará el lenguaje de programación de P
 * jonmircha@gmail.com
 
 ## :mortar_board: Evaluación:
-	: ### Evaluación MySQL:
+	: Evaluación MySQL:
 		* 35% Actividades
 		* 25% Portafolio/Curriculum
 		* 25% Implementar en el Sitio (HTML y CSS) 5 interacciones justificadas JS
