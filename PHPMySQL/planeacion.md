@@ -11,7 +11,7 @@ Al finalizar el curso el estudiante utilizará el lenguaje de programación de P
 * Maratonista :runner:
 * jonmircha@gmail.com
 
-## :mortar_board: Evaluación:
+## :mortar_board: Evaluación Parcial:
 * 40% Actividades
 * 40% Avance de Proyecto Final
 * 20% Examen Teórico (Sesión 5)
@@ -52,10 +52,10 @@ Conocer el panorama actual de las tecnologías web del lado servidor y las bases
 * [MySQL con Clase](http://mysql.conclase.net/curso/index.php)
 
 ### :pencil: Actividades para la sesión 2:
-* Que proyecto voy a desarrollar
+* Que proyecto voy a desarrollar:
 	* Mapa de Sitio
 	* En una lista numerar la info que desean almacenar
-* Conceptos
+* Conceptos:
 	* Normalización de BD
 	* Las primeras 3 Formas Normales
 	* Patrón de Diseño de Software MVC (Modelo Vista Controlador)
