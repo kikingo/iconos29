@@ -12,9 +12,9 @@ Al finalizar el curso el estudiante utilizará el lenguaje de programación de P
 * jonmircha@gmail.com
 
 ## :mortar_board: Evaluación:
-	* 40% Actividades
-	* 40% Avance de Proyecto Final
-	* 20% Examen Teórico (Sesión 5)
+* 40% Actividades
+* 40% Avance de Proyecto Final
+* 20% Examen Teórico (Sesión 5)
 	
 ## :date: Entrega Parcial:
 **Lunes 26 Octubre 2015 11:59:59pm**
@@ -55,11 +55,11 @@ Conocer el panorama actual de las tecnologías web del lado servidor y las bases
 * Que proyecto voy a desarrollar
 	* Mapa de Sitio
 	* En una lista numerar la info que desean almacenar
-*Conceptos
+* Conceptos
 	* Normalización de BD
 	* Las primeras 3 Formas Normales
 	* Patrón de Diseño de Software MVC (Modelo Vista Controlador)
-*Ejercicio: Analicen la información de un sitio web
+* Ejercicio: Analicen la información de un sitio web
 
 ## :school: Sesión 2: 02 Octubre 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
