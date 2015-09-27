@@ -12,6 +12,11 @@ Al finalizar el curso el estudiante utilizará el lenguaje de programación de P
 * jonmircha@gmail.com
 
 ## :mortar_board: Evaluación:
+
+Primer termino
+ : Primera definición
+ : Segunda definición
+ 
 	: Evaluación MySQL:
 		* 35% Actividades
 		* 25% Portafolio/Curriculum
