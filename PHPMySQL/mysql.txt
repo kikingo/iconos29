@@ -1,0 +1,86 @@
+BD == Información == Datos
+
+MySQL es un Gestor de Bases de Datos
+
+TIPOS SGBD:
+	La libreta de la abuela
+	Access
+	Excel
+	MySQL
+	SQL Lite
+	MariaDB
+	Oracle
+	MS SQL
+	PostgreSQL
+	MongoDB
+	RethinkDB
+	NEO 4j
+
+Tipos BD
+	SQL 
+		(Transaccionales)
+			Access, MySQL, Oracle, MS SQL, PostgreSQL
+	NoSQL
+		Documentales (BSON)
+			MongoDB, RethinkDB
+	Clave-Valor
+		Redis
+	de Grafos (Facebook)
+		Neo 4j		
+
+SQL (Structured Query) es el lenguaje de las BD Transaccionales
+
+Tipos de Sentencias SQL
+	Sentencias de Objetos (usuarios, bd, tablas)
+		SHOW DATABASES
+		USE
+		DESCRIBE
+	Sentencias de Datos
+		INSERT
+		SELECT
+		UPDATE
+		DELETE
+
+Concepto de CRUD (Create - Read - Update - Delete)
+
+Conceptos de BD
+	Una BD tiene Tablas
+	Una Tabla tiene Campos
+	El conjunto de Campos me genera Registros
+
+Terminal de comandos
+	cd c:/xampp/mysql/bin
+	
+	mysql -u root -p
+
+	SHOW DATABASES;
+
+	USE nombre_bd;
+
+	SHOW TABLES;
+
+	DESCRIBE nombre_tabla
+	
+	SHOW COLUMNS FROM nombre_tabla
+
+	SELECT campos_tabla FROM nombre_tabla;
+
+	SELECT * FROM nombre_tabla;
+
+Navegador Web
+	http://localhost/phpmyadmin
+
+
+
+Tarea:
+	Que proyecto voy a desarrollar
+	Mapa de Sitio
+	En una lista numerar la info que desean almacenar
+
+	Conceptos
+		Normalización de BD
+			(Las primeras 3 Formas Normales)
+		Patrón de Diseño de Software MVC (Modelo Vista Controlador)
+
+	Ejercicio 
+		Analicen la información de un sitio web
