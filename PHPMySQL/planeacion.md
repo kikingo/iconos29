@@ -25,6 +25,7 @@ La entrega puede ser vía email, dropbox, google drive, one drive o cualquier me
 * [Documentación Oficial de PHP](http://php.net/manual/es/)
 * [Curso de Diseño y Programación Web de Bextlán](http://bextlan.com/cursos/web/)
 
+
 ## :school: Sesión 1: 25 Septiembre 2015
 
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
@@ -61,11 +62,32 @@ Conocer el panorama actual de las tecnologías web del lado servidor y las bases
 	* Patrón de Diseño de Software MVC (Modelo Vista Controlador)
 * Ejercicio: Analicen la información de un sitio web
 
+
 ## :school: Sesión 2: 02 Octubre 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Aprender a modelar conceptual y lógicamente una Base de Datos a través del Modelo Entidad-Relación. Conocer el proceso de Normalización de Bases de Datos y sus formas normales. Códificar en SQL una Base de Datos.
+
 ### :clipboard: Temas y conceptos aprendidos:
+* Normalización de Bases de Datos
+* Formas Normales
+* Modelo Entidad-Relación
+* Sentencias Estructurales de SQL
+* Tipos de Datos y Atributos en SQL
+
 ### :globe_with_meridians: Links revisados en la sesión 2:
+* [IMDb](http://www.imdb.com/)
+* [OMDb API](http://www.omdbapi.com/)
+* [Normalización de Bases de Datos](https://es.wikipedia.org/wiki/Normalizaci%C3%B3n_de_bases_de_datos)
+* [Modelo Entidad-Relación](https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n)
+
 ### :pencil: Actividades para la sesión 3:
+* Lista de Tablas y Campos del Proyecto
+* Modelo Entidad-Relación del Proyecto
+* Archivo SQL del Proyecto
+* Por lo menos 1 tabla de la base de datos deberá se Catálogo
+* Traer los datos precargados de la tabla(s) que sea(n) Catálogo
+
 
 ## :school: Sesión 3: 09 Octubre 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
