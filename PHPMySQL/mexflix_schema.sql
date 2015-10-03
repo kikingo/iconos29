@@ -1,7 +1,7 @@
 --Comentarios en SQL
-CREATE DATABASE IF NOT EXISTS metflix;
+CREATE DATABASE IF NOT EXISTS mexflix;
 
-USE metflix;
+USE mexflix;
 
 CREATE TABLE peliserie(
 	peliserie_id CHAR(9) PRIMARY KEY,
