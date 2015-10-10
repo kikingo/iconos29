@@ -1,4 +1,6 @@
 /*Comentarios en SQL*/
+
+/*https://www.youtube.com/watch?v=i_cVJgIz_Cs*/
 DROP DATABASE IF EXISTS mexflix;
 
 CREATE DATABASE IF NOT EXISTS mexflix;

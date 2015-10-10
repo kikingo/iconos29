@@ -90,10 +90,30 @@ Aprender a modelar conceptual y lógicamente una Base de Datos a través del Mod
 
 
 ## :school: Sesión 3: 09 Octubre 2015
+
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
+Modelar la Lógica de Negocio de una Aplicación en una Base de Datos pasando por el Análisis de Requerimientos, Modelo Entidad-Relación, Codificación de la BD en SQL y Diseño del Modelo Relacional de la BD. Uso de la herramienta phpMyAdmin para la gestión de la BD. 
+
 ### :clipboard: Temas y conceptos aprendidos:
+* Análisis de Requerimientos
+* Modelo Entidad-Relación
+* Codificación de la BD en SQL
+* Diseño del Modelo Relacional de la BD
+* phpMyAdmin
+
 ### :globe_with_meridians: Links revisados en la sesión 3:
+* [phpMyAdmin](https://www.phpmyadmin.net/)
+* [Modelo Relacional](https://es.wikipedia.org/wiki/Modelo_relacional)
+* [No te olvides del WHERE en el DELETE FROM ](https://www.youtube.com/watch?v=i_cVJgIz_Cs) :scream: :skull:
+
 ### :pencil: Actividades para la sesión 4:
+* Modelo Entidad-Relación
+* Modelo Relacional de la BD
+* Archivo SQL:
+	* Estructura de Teblas
+	* Registros de Catálogos
+	* Por lo menos 5 registros completos de la Lógica de Negocio
+
 
 ## :school: Sesión 4: 16 Octubre 2015
 ### :chart_with_upwards_trend: Objetivo de la Sesión:
