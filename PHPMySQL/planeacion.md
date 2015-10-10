@@ -107,10 +107,11 @@ Modelar la Lógica de Negocio de una Aplicación en una Base de Datos pasando po
 * [No te olvides del WHERE en el DELETE FROM ](https://www.youtube.com/watch?v=i_cVJgIz_Cs) :scream: :skull:
 
 ### :pencil: Actividades para la sesión 4:
+* Incestigar el concepto de CRUD en BD y en WebApps
 * Modelo Entidad-Relación
 * Modelo Relacional de la BD
 * Archivo SQL:
-	* Estructura de Teblas
+	* Estructura de Tablas
 	* Registros de Catálogos
 	* Por lo menos 5 registros completos de la Lógica de Negocio
 
