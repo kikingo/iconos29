@@ -1,29 +1,28 @@
 Mexflix: BD de Películas y Series
 
-PeliSerie
-	Clave, alfanumérico
-	Título, texto
-	Géneros, número (catálogo)
-	Director/Creador, texto
-	Elenco, texto
-	Procedencia, texto
-	Año, número
-	Trailer, texto
-	Poster, texto
-	Calificación, número decimal
-	Categoria, número (catálogo)
-	Status, número (catálogo)
+movieserie
+	imdb,
+	title,
+	plot,
+	genres,
+	author,
+	actors,
+	country,
+	premiere,
+	trailer,
+	poster,
+	rating,
+	category,
+	status
 
-Series
-	Info general
-	Temporadas
-		Clave temporada, número incremental
-		Clave serie, número
-		Titulo, texto
-		Año, numero
-		Capitulos, número
+seasons
+	season,
+	serie,
+	title,
+	premiere,
+	chapters 
 
-	Capítulos
-		Clave capítulo, número incremental
-		Clave Temporada, número
-		Título, texto
+chapters
+	chapter, 
+	season,
+	title
